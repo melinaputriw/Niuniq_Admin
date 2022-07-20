@@ -1,0 +1,167 @@
+#app {
+  font-family: "Inter", sans-serif;
+}
+
+section.bgtentang {
+  padding-top: 15%;
+  padding-bottom: 15%;
+  text-align: center;
+  background-image: url("@/assets/img/tentang-bg.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+section.bginputtoko {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-image: url("@/assets/img/inputtoko-bg.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+section.bglognreg {
+  padding-top: 70%;
+  padding-bottom: 30%;
+  text-align: center;
+  background-image: url("@/assets/img/lognreg-bg.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+.card-link {
+  color: #4e944f;
+  text-decoration: underline;
+}
+
+.nav-link {
+  color: #242e33;
+}
+
+/* .img-fluid.aboutpage {
+} */
+
+header.masthead {
+  padding-top: 3.5rem;
+  padding-bottom: 3rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("@/assets/img/home-bg.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+.btn-outline-info {
+  border-color: #4e944f;
+  color: #4e944f;
+}
+
+.btn-outline-info:hover {
+  background-color: #4e944f;
+  color: #f9f9f9;
+}
+
+/* .btn-outline-info:press {
+  background-color: #4e944f;
+  color: #f9f9f9;
+} */
+
+.btn-info {
+  background-color: #4e944f;
+  color: #f9f9f9;
+}
+
+.btn-info:hover {
+  background-color: #4e944f;
+  color: #f9f9f9;
+}
+
+.img-detail {
+  width: -webkit-fill-available;
+  height: 250px;
+  object-fit: cover;
+}
+
+.mb-20 {
+  margin-bottom: 18rem;
+}
+
+.mb-video {
+  margin-bottom: 2rem;
+}
+
+.img-table-1 {
+  width: 113px;
+  height: 42px;
+  object-fit: cover;
+}
+
+h5.card-title {
+  color: #4e944f;
+  font-weight: 450;
+}
+
+.image-container[data-v-10e59822] {
+  width: 100%;
+  height: 180px;
+}
+
+h4.informasiproduk {
+  color: black;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+}
+
+h5.informasiproduk {
+  color: #4e944f;
+  font-weight: 450;
+}
+
+p.informasiproduk {
+  color: darkgray;
+}
+
+h6.lognreg {
+  color: darkgray;
+  font-weight: NORMAL;
+}
+
+h3.lognreg {
+  color: #4e944f;
+  font-weight: 450;
+}
+
+section.lognreg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  
+
+  width: 100%;
+  height: 100%;
+}
+
+.router-link-exact-active {
+  font-weight: bold;
+}
+
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+}
+
+.container{
+  padding-top:50px;
+  margin: auto;
+}
